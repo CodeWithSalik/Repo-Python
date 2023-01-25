@@ -7,7 +7,7 @@ import time
 print("Welcome to Email Marketing Script By Salik")
 # This can be read from a csv
 emailList = [
-    'email@email.com' 
+    'example@example.com' 
 #you can ad infinite emails here quoted in ''
 ]
 
